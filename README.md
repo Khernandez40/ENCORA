@@ -1,6 +1,6 @@
-# Reto de Automatización Web
+# Reto de Automatización Web - ENCORA
 
-Este proyecto es un reto de automatización web de la página **Sauce Demo** utilizando herramientas y tecnologías como **Selenium**, **Serenity**, **Cucumber**, **Intellij** o **Aqua**.
+Este proyecto es un reto de automatización web de la página https://www.saucedemo.com utilizando herramientas como **Selenium**, **Serenity**, **Cucumber**, **Intellij** o **Aqua**.
 
 ## Tecnologías y Herramientas
 - **Intellij:** Herramienta de automatización de pruebas que facilita la creación y gestión de pruebas.
@@ -17,51 +17,20 @@ Asegúrate de tener las siguientes herramientas instaladas antes de ejecutar el 
 
 - **Java 11** o superior.
 - **Maven** para manejar las dependencias del proyecto.
-- Un navegador compatible con **Selenium** (como **Google Chrome** o **Firefox**).
 - **Aqua** debe estar configurado para gestionar las pruebas (si aún no lo has hecho, revisa la documentación de Aqua para su configuración).
 
 ## Instalación
 
 1. Clona este repositorio a tu máquina local:
 
-    ```bash
-    git clone https://github.com/jesalejo/retoInetum.git
-    ```
-
-2. Navega al directorio del proyecto:
-
-    ```bash
-    cd tu_repositorio
-    ```
-
-3. Instala las dependencias con **Maven**:
-
-    ```bash
-    mvn clean install
-    ```
-
+    git clone https://github.com/Khernandez40/ENCORA.git
+   
 ## Ejecución de las Pruebas
 
 Para ejecutar las pruebas, simplemente usa el siguiente comando de Maven:
 
-```bash
-mvn clean test
-```
+    mvn clean verify
+
 ## Reportes
 
 **Serenity** generará reportes detallados después de la ejecución de las pruebas. Los reportes estarán disponibles en el directorio `target/site/serenity/`. Para visualizar el reporte, abre el archivo `index.html` en tu navegador.
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, sigue estos pasos:
-
-1. Haz un **fork** del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz un **commit** (`git commit -am 'Agregué nueva funcionalidad'`).
-4. Haz un **push** a tu rama (`git push origin feature/nueva-funcionalidad`).
-5. Abre un **pull request**.
-
-## Licencia
-
-Este proyecto no tiene una licencia específica por el momento. Si deseas usarlo o distribuirlo, por favor respeta las leyes de propiedad intelectual y asegúrate de dar crédito a los autores originales.
-
