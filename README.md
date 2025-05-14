@@ -1,9 +1,9 @@
 # Reto de Automatización Web
 
-Este proyecto es un reto de automatización web de la página **Sauce Demo** utilizando herramientas y tecnologías como **Selenium**, **Serenity**, **Cucumber**, y **Aqua**.
+Este proyecto es un reto de automatización web de la página **Sauce Demo** utilizando herramientas y tecnologías como **Selenium**, **Serenity**, **Cucumber**, **Intellij** o **Aqua**.
 
 ## Tecnologías y Herramientas
-
+- **Intellij:** Herramienta de automatización de pruebas que facilita la creación y gestión de pruebas.
 - **Aqua:** Herramienta de automatización de pruebas que facilita la creación y gestión de pruebas.
 - **Selenium WebDriver:** Para la automatización de pruebas de interacción con el navegador.
 - **Cucumber:** Para realizar pruebas basadas en comportamiento (BDD).
