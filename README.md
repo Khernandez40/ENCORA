@@ -1,4 +1,4 @@
-# Reto de Automatización Web - Sauce Demo
+# Reto de Automatización Web
 
 Este proyecto es un reto de automatización web de la página **Sauce Demo** utilizando herramientas y tecnologías como **Selenium**, **Serenity**, **Cucumber**, y **Aqua**.
 
